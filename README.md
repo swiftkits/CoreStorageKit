@@ -1,7 +1,7 @@
 # CoreStorageKit
 
 ![MIT license](https://img.shields.io/github/license/0vertex/CoreStorageKit?style=flat-square)
-![CoreUIKit CI workflow](https://github.com/0vertex/CoreStorageKit/actions/workflows/build.yml/badge.svg)
+![CoreStorageKit CI workflow](https://github.com/0vertex/CoreStorageKit/actions/workflows/build.yml/badge.svg)
 ![Pod](https://img.shields.io/cocoapods/v/CoreStorageKit?style=flat-square)
 ![Carthage](https://img.shields.io/badge/Carthage-Compatible-green)
 ![SPM](https://img.shields.io/badge/SPM-Compatible-green)
