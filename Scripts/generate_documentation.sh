@@ -12,4 +12,4 @@ jazzy \
 --author="Manish" \
 --github_url="https://github.com/0vertex/CoreUIKit" \
 --theme=fullwidth \
---output="../CoreUIKit/docs"
+--output="../CoreStorageKit/docs"

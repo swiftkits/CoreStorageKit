@@ -1,0 +1,47 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/manish/Documents/workspace/CoreStorageKit/CoreStorageKit/CoreStorageManager.swift",
+      "line": 17,
+      "symbol": "CoreStorageManager.persistentContainer",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/manish/Documents/workspace/CoreStorageKit/CoreStorageKit/CoreStorageManager.swift",
+      "line": 18,
+      "symbol": "CoreStorageManager.coreDataModelBundle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/manish/Documents/workspace/CoreStorageKit/CoreStorageKit/CoreStorageManager.swift",
+      "line": 19,
+      "symbol": "CoreStorageManager.coreDataModelName",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/manish/Documents/workspace/CoreStorageKit/CoreStorageKit/CoreStorageManager.swift",
+      "line": 20,
+      "symbol": "CoreStorageManager.shouldStoreInMemoryOnly",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/manish/Documents/workspace/CoreStorageKit/CoreStorageKit/CoreStorageManager.swift",
+      "line": 22,
+      "symbol": "CoreStorageManager.init(with:coreDataModelBundle:shouldStoreInMemoryOnly:onCompletion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/manish/Documents/workspace/CoreStorageKit/CoreStorageKit/CoreStorageManager.swift",
+      "line": 118,
+      "symbol": "CoreStorageManager.getManagedObjectContext()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/manish/Documents/workspace/CoreStorageKit"
+}
