@@ -6,7 +6,7 @@
 ![Carthage](https://img.shields.io/badge/Carthage-Compatible-green)
 ![SPM](https://img.shields.io/badge/SPM-Compatible-green)
 
-`CoreUIKit` provides functional and easy to use extensions on top of `UIKit`.
+`CoreStorageKit` provides functional and easy to use extensions on top of `CoreData`.
 
 ## Installation
 
