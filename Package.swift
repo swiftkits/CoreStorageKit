@@ -23,9 +23,11 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .target(
             name: "CoreStorageKit",
-            dependencies: []),
+            dependencies: [],
+	    path: "CoreStorageKit"),
         .testTarget(
             name: "CoreStorageKitTests",
-            dependencies: ["CoreStorageKit"]),
+            dependencies: ["CoreStorageKit"],
+	    path: "CoreStorageKitTests"),
     ]
 )
