@@ -26,3 +26,6 @@ dependencies: [
 ```
 github "CoreStorageKit" ~> 0.1.0
 ```
+
+## Author
+Written By Manish Pandey.
